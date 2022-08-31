@@ -1,0 +1,14 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "This is weather App using node js , created by Abinash Kumar",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abinash Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
